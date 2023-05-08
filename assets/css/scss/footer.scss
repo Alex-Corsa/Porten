@@ -1,0 +1,10 @@
+.footer {
+    &__line {
+        padding: 15px 0;
+        display: flex;
+        justify-content: space-between;
+    }
+    &__left {
+        color: white;
+    }
+}
